@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "name": "mars-rover",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngelFlores/mars-rover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngelFlores/mars-rover/issues"
+  },
+  "homepage": "https://github.com/EngelFlores/mars-rover#readme"
+}
